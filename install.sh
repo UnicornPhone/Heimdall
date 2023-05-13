@@ -8,3 +8,5 @@ mkdir build
 cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make
+
+#from: https://raw.githubusercontent.com/Benjamin-Dobell/Heimdall/master/Linux/README
